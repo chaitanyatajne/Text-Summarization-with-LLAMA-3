@@ -1,5 +1,3 @@
-I'd be glad to create a comprehensive and visually appealing explanation of the provided code, suitable for a GitHub README:
-
 **Title: Langchain: Powerful URL and YouTube Video Summarization**
 
 **Description:**
